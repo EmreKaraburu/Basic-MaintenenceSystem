@@ -5,15 +5,10 @@ package Data_StructerMaintenence;
 // Country class represents a country with its properties
 public class Country {
 
-    private String name;
-    private int population;
-    private String capitalCity;
-    private String largestCity;
-    private String language;
-    private String currency;
+    
 
     public Country(String name, int population, String capitalCity, String largestCity, String language, String currency) {
-        this.name = name;
+        this.surname = surname;
         this.population = population;
         this.capitalCity = capitalCity;
         this.largestCity = largestCity;
